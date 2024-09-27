@@ -1,0 +1,27 @@
+
+.btn-primary {
+    background-color: #AEC6CF; 
+    border-color: #AEC6CF;
+}
+.btn-secondary {
+    background-color: rgb(31, 45, 137); 
+    border-color: rgb(31, 54, 147);
+}
+.modal-content {
+    background-color: #FDFD96; 
+}
+.modal-header, .modal-footer {
+    background-color: #FFB6C1; 
+}
+.modal-title {
+    color: #779ECB; 
+}
+.btn-close {
+    background-color: #FFDAC1; 
+}
+.btn-primary:hover, .btn-secondary:hover {
+    opacity: 0.85; 
+}
+body{
+    background-color: rgb(242, 113, 195);
+}
